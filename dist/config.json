@@ -1,0 +1,11 @@
+{
+  "verbose": false,
+  "process_name": "Diablo IV.exe",
+  "picture_match": 0.9,
+  "matches": [
+    {"image": "images/Skill1.png", "key": "a", "enabled": false},
+    {"image": "images/Skill2.png", "key": "s", "enabled": false},
+    {"image": "images/Skill3.png", "key": "d", "enabled": false},
+    {"image": "images/Skill4.png", "key": "f", "enabled": true}
+  ]
+}
